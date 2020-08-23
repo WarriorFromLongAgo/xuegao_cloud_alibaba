@@ -10,9 +10,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>xuegao_nacos_provider9001</module>
-        <module>xuegao_nacos_provider9002</module>
-        <module>xuegao_consumer1</module>
+        <module>xuegao-nacos-provider9001</module>
+        <module>xuegao-nacos-provider9002</module>
+        <module>xuegao-nacos-config-client3377</module>
+        <module>xuegao-nacos-order83</module>
     </modules>
 
     <properties>
