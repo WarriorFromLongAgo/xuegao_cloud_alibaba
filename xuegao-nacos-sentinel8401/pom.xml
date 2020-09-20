@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>xuegao_nacos_sentinel8401</artifactId>
+    <artifactId>xuegao-nacos-sentinel8401</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>xuegao-nacos-sentinel8401</name>
